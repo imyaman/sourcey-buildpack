@@ -5,7 +5,7 @@
 #SOURCEY_REBUILD=1
 
 # create a copy of perl
-buildPerl 5.24.0
+buildPerl 5.26.0
 
 # and this one is entirely unrelated, and just here
 # to show how to build a library. we do not actually need
